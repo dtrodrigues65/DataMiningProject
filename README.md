@@ -1,9 +1,16 @@
-# Web-Data-Mining-and-Search - Projects and exercises from the class: Web-Data-Mining-and-Search (Mineração e Pesquisa de Dados Web)
+# Web-Data-Mining-and-Search Project
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+This repository contains a taskbot developed for recipe guidance, leveraging machine learning models and datasets for natural language processing (NLP) and image-to-text processing. </br>
 
-> Project: Conversational TaskBot for recipes (3 phases)
-Technologies used: CLIP (Contrastive Language-Image Pre-training), Task Wizard, OpenSearch framework, etc.. (Check report for more info)
+This project was created as part of the Web-Data-Mining-and-Search course.
 
-> Extra projects
+## Tech Stack
+
+- **Programming Language:** Python 🐍
+- **Libraries and Frameworks:**
+  - PyTorch
+  - HuggingFace Transformers
+  - OpenAI CLIP
+  - OpenSearch Framework
+
+
